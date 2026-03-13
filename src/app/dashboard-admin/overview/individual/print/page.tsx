@@ -28,7 +28,7 @@ import {
     MessageSquare,
     AlertCircle
 } from 'lucide-react';
-import { formatRoundId } from '@/lib/utils/round-formatter';
+import { formatRoundId } from '@/utils/round-formatter';
 
 interface AssessmentDomain {
     id: string;
